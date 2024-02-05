@@ -1,3 +1,22 @@
 .header{
+  display: flex;
+  justify-content: space-between;
   color: royalblue;
+  background-color: #eee;
+  nav{
+    ul{
+      display: flex;
+      a{
+        text-decoration: none;
+        color: royalblue;
+        &.underline{
+          text-decoration: underline;
+        }
+      }
+      li{
+        margin: 0 10px;
+        list-style: none;
+      }
+    }
+  }
 }
