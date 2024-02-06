@@ -1,4 +1,4 @@
-import logoKyra from "../assets/images/LogoKyra.png";
+import logoKyra from "/images/LogoKyra.png";
 import { NavLink } from "react-router-dom";
 const Header = () => {
   return (

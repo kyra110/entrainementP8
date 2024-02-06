@@ -1,0 +1,32 @@
+.livre{
+  display: flex;
+  flex-direction: column;
+  background-color: beige;
+  border: 1px solid #000;
+  border-radius: 25px;
+  margin-top: 20px;
+  .pictures{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-top: 20px;
+    img{
+      width: 100px;
+      height: 100px;
+    }
+  }
+  .description{
+    padding: 20px;
+    h2{
+      color: #000;
+      font-size: 1.5em;
+      margin-bottom: 20px;
+    }
+    p{
+      color: #000;
+      font-size: 1.2em;
+    }
+  }
+}

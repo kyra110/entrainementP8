@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1a23bc45",
+    "title": "Le Petit Prince",
+    "cover": "/images/petit/petit-prince-cover.webp",
+    "pictures":[
+      "/images/petit/petit-prince-picture1.webp",
+      "/images/petit/petit-prince-picture2.webp",
+      "/images/petit/petit-prince-picture3.webp"
+    ],
+    "author": "Antoine de Saint-Exupéry",
+    "description": "Un conte poétique et philosophique qui raconte l'histoire d'un petit prince venu d'une planète lointaine.",
+    "rating": "4",
+    "genre": "Fiction",
+    "tags": [
+      "Classique",
+      "Philosophie"
+    ]
+  },
+  {
+    "id": "6d78ef90",
+    "title": "Harry Potter à l'école des sorciers",
+    "cover": "/images/harry/harry-cover.webp",
+    "pictures":[
+      "/images/harry/harry-picture1.webp",
+      "/images/harry/harry-picture2.webp",
+      "/images/harry/harry-picture3.webp"
+    ],
+    "author": "J.K. Rowling",
+    "description": "L'histoire magique de Harry Potter, un jeune sorcier découvrant le monde de la sorcellerie à l'école de Poudlard.",
+    "rating": "5",
+    "genre": "Fantasy",
+    "tags": [
+      "Magie",
+      "Aventure"
+    ]
+  }
+]
